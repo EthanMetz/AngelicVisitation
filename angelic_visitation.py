@@ -43,7 +43,7 @@ if choice1 == "stroll":
             it when people are affected in such a wonderful way, that is not what we refer to.
             Joy is a permanent state of gratitude.
             It is a disciplined awareness of all that is good in your life. Absent gratefulness, a man will never see 
-            the hand of God or angel at work "''')
+            the hand of God or angel at work. You spend the rest of the day taking in what the Spirit said, and relaxing outside. "''')
         
         
         
@@ -60,4 +60,3 @@ if choice1 == "stroll":
         love was. To deny love is to deny the entire universe; it is to deny God Himself, His purpose, His heart, and the very core of His being." You feel a melding of your spirit
         with the spirit of wisdom and gain the knowledge that love seeks to understand that it may heal all that is broken. You spend the rest of the day relaxing.''')
         
-
